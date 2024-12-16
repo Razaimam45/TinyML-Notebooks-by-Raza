@@ -94,7 +94,7 @@ git clone https://github.com/Razaimam45/TinyML-Notebooks-by-Raza.git
 Navigate to the directory and open the notebooks using Jupyter or any compatible viewer:
 
 ```bash
-cd tinyml-notebooks
+cd TinyML-Notebooks-by-Raza
 jupyter notebook
 ```
 
